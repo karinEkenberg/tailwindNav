@@ -4,12 +4,6 @@
 This project demonstrates a responsive navigation menu built with **Tailwind CSS** and **Ionicons**.
 The navigation includes a mobile menu toggle functionality that uses simple JavaScript to show and hide the menu on smaller screens.
 
-# Images
-
-[nav-desktop](https://github.com/user-attachments/assets/f61a7bbb-c180-4a8a-8d63-be00064fca54)
-
-[nav-mobile](https://github.com/user-attachments/assets/a9c9d977-a5ab-446c-855d-c9efc0ac3c55)
-
 ## Features
 
 - **Responsive Navigation**: The menu adjusts its layout based on screen size.
@@ -26,6 +20,12 @@ To use this project, follow the steps below:
    ```bash
    git clone https://github.com/yourusername/repositoryname.git
    ```
+
+# Images
+
+![nav-desktop](https://github.com/user-attachments/assets/f61a7bbb-c180-4a8a-8d63-be00064fca54)
+
+![nav-mobile](https://github.com/user-attachments/assets/a9c9d977-a5ab-446c-855d-c9efc0ac3c55)
 
 2. **Navigate to the project directory**:
 
